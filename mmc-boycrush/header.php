@@ -36,7 +36,8 @@
     <div class="Header-jpeg"></div>
 <div class="logo">
     <h1 id="name-text" class="logo-name">
-        <a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
+        <!--<a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>-->
+        <a href="http://www.meetmychum.com/"><?php bloginfo('name'); ?></a></h1>
     <div id="slogan-text" class="logo-text">
         <?php bloginfo('description'); ?></div>
 </div>
