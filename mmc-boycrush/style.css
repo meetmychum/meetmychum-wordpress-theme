@@ -1239,13 +1239,13 @@ body
   font-size: 12px;
   font-style: normal;
   font-weight: normal;
-  color: #3C4E58;
+  color: #000000;
 }
 
 .PostContent
 {
   font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
-  color: #3C4E58;
+  color: #000000;
 }
 
 /* Start Content link style */
